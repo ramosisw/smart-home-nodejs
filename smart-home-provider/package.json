@@ -22,7 +22,7 @@
     "googleapis": "^59.0.0",
     "morgan": "^1.9.0",
     "ngrok": "^2.3.0",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "eslint": "^5.1.0",
